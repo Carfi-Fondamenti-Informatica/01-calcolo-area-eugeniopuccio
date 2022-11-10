@@ -8,4 +8,5 @@ float a=0, b=0, c=0
     cout<<a*a<<endl;
     cout<<a*b<<endl;
     cout<<(a+b)*c/2;
+    return 0;
 }
